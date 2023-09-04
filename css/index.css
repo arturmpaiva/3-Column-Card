@@ -9,7 +9,7 @@ body {
 main {
     display: flex;
     flex-direction: row;
-    max-width: 60%;
+    max-width: 10%;
 }
 
 h1 {
